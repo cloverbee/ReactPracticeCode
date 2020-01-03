@@ -4,33 +4,33 @@ import List from './List';
 const data = {
     mylist : [
     {
-    'title': 'Futurama',
+    'title': 'XFutuQrama',
     'id': 1,
     'img': 'http://cdn1.nflximg.net/webp/7621/3787621.webp'
     },
     {
-    'title': 'The Interview',
+    'title': 'WTWhe InteWrview',
     'id': 2,
     'img': 'http://cdn1.nflximg.net/webp/1381/11971381.webp'
     },
     {
-    'title': 'Gilmore Girls',
+    'title': 'XGilmore SGiSrls',
     'id': 3,
     'img': 'http://cdn1.nflximg.net/webp/7451/11317451.webp'
     }
     ],
     recommendations : [
     {
-    'title': 'Family Guy',
+    'title': 'WFWSamily GWuy',
     'id': 4,
    'img': 'http://cdn5.nflximg.net/webp/5815/2515815.webp'
    },
    {
-   'title': 'The Croods',
+   'title': 'SThe ACXroods',
    'id': 5,
    'img': 'http://cdn3.nflximg.net/webp/2353/3862353.webp'},
    {
-   'title': 'Friends',
+   'title': 'AFriSeZnds',
    'id': 6,
    'img': 'http://cdn0.nflximg.net/webp/3200/9163200.webp'
    }]};
